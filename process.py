@@ -48,9 +48,9 @@ with open(IMMD_SRC) as f:
                 # Trinity College Dublin, The University of Dublin
                 # King’s College London
 
-RESULT = "result.csv"
+RESULT = "result.tsv"
 with open(RESULT, "w") as f:
     for ce in data:
-        f.write(f'{data[ce]["cc"]},{ce},{len(data[ce]["u"])}\n')
+        f.write(f'{data[ce]["cc"]}\t{ce}\t{len(data[ce]["u"])}\n')
         for u in data[ce]["u"]:
-            f.write(f",{u}\n")
+            f.write(f" \t{u}\t \n")
