@@ -1,3 +1,4 @@
+Region(Chinese)	Region	Count
 阿根廷	Argentina	1
  	Universidad de Buenos Aires (UBA)	 
 澳洲	Australia	8
@@ -12,26 +13,6 @@
 比利時	Belgium	2
  	Ghent University	 
  	KU Leuven	 
-英國	UK	19
- 	Durham University	 
- 	Imperial College London	 
- 	King's College London	 
- 	London School of Economics and Political Science	 
- 	London School of Hygiene and Tropical Medicine	 
- 	University College London	 
- 	University of Birmingham	 
- 	University of Bristol	 
- 	University of Cambridge	 
- 	University of Edinburgh	 
- 	University of Glasgow	 
- 	University of Leeds	 
- 	University of Manchester	 
- 	University of Nottingham	 
- 	University of Oxford	 
- 	University of Sheffield	 
- 	University of Southampton	 
- 	University of St Andrews	 
- 	University of Warwick	 
 加拿大	Canada	6
  	McGill University	 
  	McMaster University	 
@@ -87,13 +68,6 @@
  	Tohoku University	 
  	Tokyo Institute of Technology (Tokyo Tech)	 
  	University of Tokyo	 
-韓國	South Korea	6
- 	Korea Advanced Institute of Science and Technology (KAIST)	 
- 	Korea University	 
- 	Pohang University of Science And Technology (POSTECH)	 
- 	Seoul National University	 
- 	Sungkyunkwan University (SKKU)	 
- 	Yonsei University	 
 中國內地	Mainland China	9
  	Fudan University / 復旦大學	 
  	Huazhong University of Science and Technology / 華中科技大學	 
@@ -131,6 +105,13 @@
 新加坡	Singapore	2
  	Nanyang Technological University, Singapore	 
  	National University of Singapore	 
+韓國	South Korea	6
+ 	Korea Advanced Institute of Science and Technology (KAIST)	 
+ 	Korea University	 
+ 	Pohang University of Science And Technology (POSTECH)	 
+ 	Seoul National University	 
+ 	Sungkyunkwan University (SKKU)	 
+ 	Yonsei University	 
 西班牙	Spain	1
  	University of Barcelona	 
 瑞典	Sweden	5
@@ -148,6 +129,26 @@
  	University of Zurich	 
 台灣	Taiwan	1
  	National Taiwan University (NTU) / 國立台灣大學	 
+英國	UK	19
+ 	Durham University	 
+ 	Imperial College London	 
+ 	King's College London	 
+ 	London School of Economics and Political Science	 
+ 	London School of Hygiene and Tropical Medicine	 
+ 	University College London	 
+ 	University of Birmingham	 
+ 	University of Bristol	 
+ 	University of Cambridge	 
+ 	University of Edinburgh	 
+ 	University of Glasgow	 
+ 	University of Leeds	 
+ 	University of Manchester	 
+ 	University of Nottingham	 
+ 	University of Oxford	 
+ 	University of Sheffield	 
+ 	University of Southampton	 
+ 	University of St Andrews	 
+ 	University of Warwick	 
 美國	USA	53
  	Boston University	 
  	Brown University	 

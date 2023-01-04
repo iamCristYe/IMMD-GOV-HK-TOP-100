@@ -50,7 +50,12 @@ with open(IMMD_SRC) as f:
 
 RESULT = "result.tsv"
 with open(RESULT, "w") as f:
+    f.write("Region(Chinese)\tRegion\tCount\n")
+    ce_list = []
     for ce in data:
+        ce_list.append(ce)
+    ce_list.sort()
+    for ce in ce_list:
         f.write(f'{data[ce]["cc"]}\t{ce}\t{len(data[ce]["u"])}\n')
         for u in data[ce]["u"]:
             f.write(f" \t{u}\t \n")
